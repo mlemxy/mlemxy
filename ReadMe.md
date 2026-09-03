@@ -2,7 +2,7 @@
 <h3 align="center">Applied AI student @ SIT | Building AI-powered automation systems</h3>
 
 # 💫 About Me:
-🎓 Year 3 Applied AI student at Singapore Institute of Technology<br>💼 💼 GenAI Intern at NLB (National Library Board), Finance, Procurement & Administration Department<br>🤖 Currently building an AI personality-layer chatbot with vector-based memory retrieval
+🎓 Year 3 Applied AI student at Singapore Institute of Technology<br>💼 GenAI Intern at NLB (National Library Board), Finance, Procurement & Administration Department<br>🤖 Currently building an AI personality-layer chatbot with vector-based memory retrieval
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mlemxy)
