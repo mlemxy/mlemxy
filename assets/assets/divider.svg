@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">
+  <defs>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#39d353" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39d353"/>
+      <stop offset="1" stop-color="#39d353" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect y="5" width="900" height="2" fill="#30363d"/>
+  <rect y="5" width="160" height="2" fill="url(#scan)">
+    <animate attributeName="x" from="-160" to="900" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
